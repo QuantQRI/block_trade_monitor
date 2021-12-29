@@ -1,0 +1,15 @@
+{
+  "block_list_eth": [
+    "13899104"
+  ],
+  "block_list_bsc": [
+    "13894018",
+    "13894234"
+  ],
+  "block_list_ftm": [],
+  "block_list_matic": [],
+  "hash_list_bsc": [],
+  "hash_list_ftm": [],
+  "hash_list_matic": [],
+  "block_list_avax": []
+}
